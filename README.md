@@ -1,20 +1,15 @@
 ## Hi! I'm Abbey 👋
 
+I am a Queen's University Computing student, and a sotware developer for the Centre for Advanced Computing. 
 
-My Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbeycameron)](https://github.com/anuraghazra/github-readme-stats)
+## Skills
+### Languages
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)]()
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]()
+[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)]()
+[![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)]()
 
-<!--
-**abbeycameron/abbeycameron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)]()
+[![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)]()
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
