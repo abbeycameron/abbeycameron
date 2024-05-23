@@ -1,6 +1,6 @@
-## Hi! I'm Abbey 👋
+## Hi! I'm Abbey 😸
 
-I am a Queen's University Computing student, and a sotware developer for the Centre for Advanced Computing. 
+I am a Queen's University Computing student and a software developer intern for the Centre for Advanced Computing. 
 
 ## Skills
 ### Languages
