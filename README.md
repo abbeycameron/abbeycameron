@@ -3,7 +3,7 @@
 I am a Queen's University Computing student and a software developer intern for the Centre for Advanced Computing. 
 
 ## Learning
-Currently working on learning web development, including React, Next.js and Django!
+Currently working on learning web development, including React, PHP, Next.js and Django!
 
 ## Skills
 ### Languages
