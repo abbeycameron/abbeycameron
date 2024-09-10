@@ -11,6 +11,6 @@ I am a Queen's University Computing student and a software developer intern for 
 
 ### Tools
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)]()
-[![React Native](https://img.shields.io/badge/react-black?style=for-the-badge&logo=reactnative)]()
+
 
 
