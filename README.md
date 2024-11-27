@@ -13,7 +13,7 @@ I am a Queen's University Computing student and a software developer intern for 
 
 ### Tools
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)]()
-[![Django]((https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)]()
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)]()
 
 
 
