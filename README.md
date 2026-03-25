@@ -1,6 +1,6 @@
-## Hi! I'm Abbey 😸
+## Hi! I'm Abbey 
 
-I am a Queen's University Computing student and a software developer intern for the Centre for Advanced Computing. 
+I am a Queen's University Computing student and an aspiring professional in the field of computer science. 
 ## Skills
 ### Languages
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)]()
