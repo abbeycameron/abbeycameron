@@ -1,6 +1,7 @@
 ## Hi! I'm Abbey 
 
-I am a Queen's University Computing student and an aspiring professional in the field of computer science. 
+I am a recent Queen's University Computing graduate and an aspiring professional in the field of computer science. 
+I have over a year of professional experience in full-stack software development and am looking for my next challenge!
 ## Skills
 ### Languages
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)]()
